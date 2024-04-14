@@ -10,6 +10,8 @@
 
 <h2>🛠 Lenguajes de programacion</h2>
 
-<h2>👷‍♂️ Experencia</h2>
+<h2>👷‍♂️ Experencia Laboral</h2>
 
 <h4> - 4 años de servicio al cliente</h4>
+
+<h2>👨‍💻 Proyectos</h2>
