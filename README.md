@@ -11,6 +11,7 @@
 <h2>🛠 Lenguajes de programacion</h2>
 
 <h2>🛠 Software</h2>
+https://img.shields.io/badge/canva-blue?style=for-the-badge&logo=canva&logoColor=canva
 
 <h2>👷‍♂️ Experencia Laboral</h2>
 
