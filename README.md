@@ -1,4 +1,4 @@
-<h1>Hola 👋, soy Eros Castillo</h1>
+<h1>Eros Castillo - @Ero377</h1>
 
 <h4>- 📚 Estoy aprendiendo Desarollo Web y otros lenguajes de programacion.</h4>
 
