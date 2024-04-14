@@ -13,7 +13,7 @@
 <h2>🛠 Software</h2>
 <img src="https://img.shields.io/badge/canva-blue?style=for-the-badge&logo=canva&logoColor=canva">
 <img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=Jira%20Software&logoColor=Jira">
-<img src="https://img.shields.io/badge/JavaScript-%23f7d547?style=for-the-badge&logo=JavaScript&logoColor=JavaScript&labelColor=black">
+<img src="[https://img.shields.io/badge/JavaScript-%23f7d547?style=for-the-badge&logo=JavaScript&logoColor=JavaScript&labelColor=black](https://img.shields.io/badge/JavaScript-%23f7d547?style=for-the-badge&logo=JavaScript&logoColor=JavaScript&labelColor=gray)">
 <img src="">
 <img src="">
 <img src="">
