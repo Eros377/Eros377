@@ -10,9 +10,3 @@
 
 <h2>🛠 Lenguajes de programacion</h2>
 
-
-
-<h2>🗃 Base de datos</h2>
-
-<h2>🧰 Software</h2>
-
