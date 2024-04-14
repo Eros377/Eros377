@@ -1,5 +1,5 @@
 <h1>Hola!, Mi nombre es</h1>
-<div alig="center">
+<div align="center">
   <img src="gitHub/presentacion.png"> 
 </div>
 
