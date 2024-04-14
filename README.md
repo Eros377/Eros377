@@ -2,8 +2,8 @@
 <div align="center">
   <img src="gitHub/presentacion.png"> 
 </div>
-
-<h4>- 📚 Estoy aprendiendo Desarollo Web y otros lenguajes de programacion.</h4>
+<h2>Sobre mi</h2>
+<h4> - 📚 Estoy aprendiendo Desarollo Web y otros lenguajes de programacion.</h4>
 
 <h4> - ✍️ En mi tiempo libre, me dedico al modelado 3D.</h4>
 
