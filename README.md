@@ -1,5 +1,5 @@
 <h1>Hola!, Mi nombre es</h1>
-<img src=""> 
+<img src="gitHub/"> 
 <h4>- 📚 Estoy aprendiendo Desarollo Web y otros lenguajes de programacion.</h4>
 
 <h4>- ✍️ En mi tiempo libre, me dedico al modelado 3D.</h4>
