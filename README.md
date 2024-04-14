@@ -12,7 +12,12 @@
 
 <h2>🛠 Software</h2>
 <img src="https://img.shields.io/badge/canva-blue?style=for-the-badge&logo=canva&logoColor=canva">
-
+<img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=Jira%20Software&logoColor=Jira">
+<img src="https://img.shields.io/badge/JavaScript-%23f7d547?style=for-the-badge&logo=JavaScript&logoColor=JavaScript&labelColor=black">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
 <h2>👷‍♂️ Experencia Laboral</h2>
 
 <h4> - 4 años de servicio al cliente</h4>
