@@ -4,7 +4,7 @@
 
 <h4>- ✍️ En mi tiempo libre, me dedico al modelado 3D.</h4>
 
-<h4> - 📧 Puedes enviarme un correo electronico a **eroscastillo377@gmail.com** ¡Intentare responder lo mas rapido que pueda!</h4>
+<h4> - 📧 Puedes enviarme un correo electronico a <a href="#">eroscastillo377@gmail.com</a> ¡Intentare responder lo mas rapido que pueda!</h4>
 
 <h4> - 📄 Eche un vistaso a mi **Curriculum** para obtener mas detalles sobre mi.</h4>
 
