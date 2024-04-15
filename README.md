@@ -4,9 +4,9 @@
 </div>
 <h2>Sobre mi</h2>
 
-<h4> - 📧 Puedes enviarme un correo electronico a <a href="#">eroscastillo377@gmail.com</a> ¡Intentare responder lo mas rapido que pueda!</h4>
+<h3> - 📧 Puedes enviarme un correo electronico a <a href="#">eroscastillo377@gmail.com</a> ¡Intentare responder lo mas rapido que pueda!</h3>
 
-<h4> - 📄 Eche un vistaso a mi <a href="#">Curriculum</a> para obtener mas detalles sobre mi.</h4>
+<h3> - 📄 Eche un vistaso a mi <a href="#">Curriculum</a> para obtener mas detalles sobre mi.</h3>
 
 <h2>🛠 Lenguajes de programacion</h2>
 <img src="https://img.shields.io/badge/HTML%205-orange?style=for-the-badge">
