@@ -35,5 +35,3 @@
 <h2>👷‍♂️ Experencia Laboral</h2>
 
 - 4 **años de servicio al cliente**
-
-<h2>👨‍💻 Proyectos</h2>
