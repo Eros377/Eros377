@@ -23,9 +23,12 @@
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge">
 <img src="https://img.shields.io/badge/Trello-blue?style=for-the-badge">
 <h2>📞 Comunicacion</h2>
+<a href="#" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;"/>
+</a>
+<a href="#" target="_blank">
 <img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"/>
-
+</a>
 <h2>👷‍♂️ Experencia Laboral</h2>
 
 <h4> - 4 años de servicio al cliente</h4>
