@@ -9,19 +9,19 @@
 <h4> - 📄 Eche un vistaso a mi <a href="#">Curriculum</a> para obtener mas detalles sobre mi.</h4>
 
 <h2>🛠 Lenguajes de programacion</h2>
-<img src="https://img.shields.io/badge/JavaScript-%23f7d547?style=for-the-badge&logo=JavaScript&logoColor=JavaScript&labelColor=gray">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://img.shields.io/badge/HTML%205-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/CSS%203-%232196f3?style=for-the-badge">
+<img src="https://img.shields.io/badge/JQuery.js-%23ffff00?style=for-the-badge">
+<img src="https://img.shields.io/badge/JavaScript-%23ffff00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Bootstrap-%238a008f?style=for-the-badge">
 
 <h2>🛠 Software</h2>
-<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=Canva&logoColor=Canva&labelColor=gray">
-<img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=Jira%20Software&logoColor=Jira%20Software&labelColor=gray">
-<img src="https://img.shields.io/badge/Miro-%23ffff72?style=for-the-badge&logo=Miro&logoColor=Miro&labelColor=gray">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=Visual%20Studio%20Code&labelColor=gray">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=GitHub&labelColor=gray">
-<img src="https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=Trello&logoColor=Trello&labelColor=gray">
+<img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Miro-%23ffff72?style=for-the-badge">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Trello-blue?style=for-the-badge">
 <img src="">
 <img src="">
 <img src="">
