@@ -15,7 +15,13 @@
 <img src="https://img.shields.io/badge/JQuery.js-%23ffff00?style=for-the-badge">
 <img src="https://img.shields.io/badge/Bootstrap-%238a008f?style=for-the-badge">
 
-<h2>💻 Software</h2>
+<h2>💻 Software y Herramientas</h2>
+
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
 <img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Miro-%23ffff72?style=for-the-badge">
