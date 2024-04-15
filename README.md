@@ -11,8 +11,8 @@
 <h2>🛠 Lenguajes de programacion</h2>
 <img src="https://img.shields.io/badge/HTML%205-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/CSS%203-%232196f3?style=for-the-badge">
-<img src="https://img.shields.io/badge/JQuery.js-%23ffff00?style=for-the-badge">
 <img src="https://img.shields.io/badge/JavaScript-%23ffff00?style=for-the-badge">
+<img src="https://img.shields.io/badge/JQuery.js-%23ffff00?style=for-the-badge">
 <img src="https://img.shields.io/badge/Bootstrap-%238a008f?style=for-the-badge">
 
 <h2>💻 Software</h2>
