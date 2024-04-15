@@ -22,9 +22,6 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge">
 <img src="https://img.shields.io/badge/Trello-blue?style=for-the-badge">
-<img src="">
-<img src="">
-<img src="">
 <h2>📞 Comunicacion</h2>
 <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/whatsapp-darkgreen?style=for-the-badge">
