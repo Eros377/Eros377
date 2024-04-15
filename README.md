@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/JavaScript-%23ffff00?style=for-the-badge">
 <img src="https://img.shields.io/badge/Bootstrap-%238a008f?style=for-the-badge">
 
-<h2>🛠 Software</h2>
+<h2>💻 Software</h2>
 <img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Miro-%23ffff72?style=for-the-badge">
@@ -26,8 +26,8 @@
 <img src="">
 <img src="">
 <h2>📞 Comunicacion</h2>
-<img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=Discord&logoColor=Discord&labelColor=gray">
-<img src="https://img.shields.io/badge/whatsapp-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=whatsapp&labelColor=gray">
+<img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/whatsapp-darkgreen?style=for-the-badge">
 <h2>👷‍♂️ Experencia Laboral</h2>
 
 <h4> - 4 años de servicio al cliente</h4>
