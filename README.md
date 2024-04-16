@@ -29,6 +29,3 @@
   ![Miro](https://img.shields.io/badge/Miro-yellow?style=for-the-badge&logo=Miro&logoColor=black)
   ![Trello](https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=Trello&logoColor=white)
 
-<h2>👷‍♂️ Experencia Laboral</h2>
-
-- 4 **años de servicio al cliente**
