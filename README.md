@@ -29,3 +29,10 @@
   ![Miro](https://img.shields.io/badge/Miro-yellow?style=for-the-badge&logo=Miro&logoColor=black)
   ![Trello](https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=Trello&logoColor=white)
 
+### - **Lo que estoy estudiando actualmente**
+
+  ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%23f89f16?style=for-the-badge&logo=phpMyAdmin&logoColor=black)
+  ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=PHP&logoColor=white)
+
+
