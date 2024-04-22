@@ -17,9 +17,13 @@
   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=PHP&logoColor=white)
+
+
+### - **Frameworks**
+
   ![JQuery](https://img.shields.io/badge/jquery.js-yellow?style=for-the-badge&logo=jquery&logoColor=black)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=white)
-
+  
 ### - **Software y Herramientas**
 
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
