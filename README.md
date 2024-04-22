@@ -37,8 +37,3 @@
   ![MySQL](https://img.shields.io/badge/MySQL-%2300758f?style=for-the-badge&logo=MySQL&logoColor=white)
 
 
-### - **Lo que estoy estudiando actualmente**
-
-  ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white)
-
-
