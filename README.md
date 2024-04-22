@@ -7,7 +7,7 @@
 
 - 📧 Puedes enviarme un correo electronico a  <a href="#">eroscastillo377@gmail.com</a> ¡Intentare responder lo mas rapido que pueda!
 
-- 📄 Eche un vistaso a mi <a href="Eros377/gitHub/CurriculumErosCastillo.pdf">Curriculum</a> para obtener mas detalles sobre mi.
+- 📄 Eche un vistaso a mi <a href="gitHub/CurriculumErosCastillo.pdf">Curriculum</a> para obtener mas detalles sobre mi.
 
 <h2> 🛠 Habilidades</h2>
 
