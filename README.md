@@ -1,4 +1,4 @@
-<h1>Hola! 👋, Mi nombre es</h1>
+<h1>Hola! 👋, Mi nombre es Eros Castillo</h1>
 <div align="center">
   <img src="gitHub/presentacion.png"> 
 </div>
