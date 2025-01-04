@@ -1,6 +1,6 @@
 <h1>Hola! 👋, Mi nombre es</h1>
 <div align="center">
-  <img src="gitHub/presentacion1.png"> 
+  <img src="gitHub/presentacion.png"> 
 </div>
 <h2>Sobre mi</h2>
 
